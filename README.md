@@ -1,6 +1,6 @@
 # tryout-01
 
-## TRYOUT 01 - IMPLEMENTation GENERATOR YIELD,WEBSOCKET, GRAPHQL
+## TRYOUT 01 - Implementation Generator Yield,WebSocket, GraphQL
 ### Prayudi Tirta BAyu
 ### prayuditb@gmail.com
 
